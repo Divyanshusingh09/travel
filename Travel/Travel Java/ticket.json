@@ -1,0 +1,22 @@
+{
+        "requestType":"visa",
+        "priority":"urgent",
+        "travelCity":"Banglore",
+        "from":"Gurgaon",
+        "startDate":"2020-08-20",
+        "endDate":"",
+        "passportNumber":"TPK-1111111",
+        "projectName":"Dummy",
+        "borneBy":"nagarro",
+        "approver":"ok",
+        "expectedDuration":"ok",
+        "allowedAmount":"ok",
+        "extraDetails":"ok",
+        "submitDate":"2020-05-3",
+        "status":"Submitted",
+        "files":"",
+        "remarks":"we will work on this soon",
+        "downloadLink":"",
+        "ticketId":"1"
+        
+  }
